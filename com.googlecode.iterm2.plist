@@ -433,10 +433,12 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
+	<key>NSWindow Frame SUUpdateAlert</key>
+	<string>1194 971 620 392 0 0 3008 1669 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>690 168 796 473 0 0 3008 1669 </string>
+	<string>701 184 796 473 0 0 3008 1669 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>388 256 1426 777 0 0 3008 1669 </string>
+	<string>14 93 1426 777 0 0 1440 877 </string>
 	<key>NeverWarnAboutMeta</key>
 	<true/>
 	<key>NeverWarnAboutMeta_selection</key>
@@ -1437,6 +1439,8 @@
 	<false/>
 	<key>QuitWhenAllWindowsClosed</key>
 	<false/>
+	<key>SUAutomaticallyUpdate</key>
+	<true/>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
@@ -1446,7 +1450,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-03-31T07:04:23Z</date>
+	<date>2018-05-10T15:52:53Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1476,7 +1480,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.1.5</string>
+	<string>3.1.6</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>3</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
